@@ -26,7 +26,7 @@ Points clés : Analyse des taux d'annulation, étude de la saisonnalité et calc
 
 2. Dashboard Power BI (Interactif)
 J'ai conçu un tableau de bord interactif pour permettre aux décideurs de filtrer les données par année et par segment de marché.
-Aperçu du Dashboard : ![Aperçu du Dashboard](Alfred_Hotel_Analysis_Dashboard.png)
+Aperçu du Dashboard : ![Aperçu du Dashboard](Alfred_Hotel_Analysis_Dashboard_PowerBI.png)
 
 KPI Cards : Affichage en temps réel de l'ADR moyen et du volume de réservations.
 Segments de Marché : Analyse de la provenance des clients (Online TA, Direct, etc.).
@@ -35,7 +35,7 @@ Filtres (Slicers) : Filtrage dynamique par année (arrival_date_year).
 Reporting Excel
 Un dashboard Excel a été créé pour une consultation rapide des indicateurs de performance (KPIs) sous forme de tableaux croisés dynamiques.
 
-Aperçu Excel : ![Aperçu Excel](Alfred_Hotels_Analysis_Dashboard.xlsx)
+Aperçu Excel : ![Aperçu Excel](Alfred_Hotels_Analysis_Dashboard.png)
 
 Compétences Démontrées
 Data Cleaning : Manipulation de données avec Python.
