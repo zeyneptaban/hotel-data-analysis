@@ -1,4 +1,5 @@
 Hotel Booking Data Analysis & Business Intelligence
+
 Ce projet propose une analyse complète des données de réservation hôtelière pour l'établissement Alfred Hotel Les Halles (Biarritz). L'objectif est d'extraire des insights stratégiques pour optimiser la gestion des revenus et comprendre le comportement des clients.
 
 Aperçu du Projet
@@ -38,15 +39,23 @@ Un dashboard Excel a été créé pour une consultation rapide des indicateurs d
 Aperçu Excel : ![Aperçu Excel](AlfredHotels_Dashboard.png)
 
 Compétences Démontrées
+
 Data Cleaning : Manipulation de données avec Python.
+
 Business Intelligence : Création de visuels percutants avec Power BI.
+
 Reporting : Capacité à synthétiser des données complexes pour le management.
+
 Langues : Projet documenté en Français pour répondre aux besoins du marché local.
 
 Structure du Repo
+
 alfred_hotel_analysis.ipynb : Script d'analyse Python.
+
 Alfred_Hotel_Dashboard.pbix : Fichier source Power BI.
+
 Alfred_Hotel_Analysis_Dashboard.xlsx : Dashboard Excel.
+
 hotel_bookings.csv : Dataset utilisé.
 
 ## Business Intelligence & Reporting
