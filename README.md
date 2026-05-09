@@ -35,7 +35,7 @@ Filtres (Slicers) : Filtrage dynamique par année (arrival_date_year).
 Reporting Excel
 Un dashboard Excel a été créé pour une consultation rapide des indicateurs de performance (KPIs) sous forme de tableaux croisés dynamiques.
 
-Aperçu Excel : ![Aperçu Excel](AlfredHotels_Analysis_Dashboard.png)
+Aperçu Excel : ![Aperçu Excel](AlfredHotels_Dashboard.png)
 
 Compétences Démontrées
 Data Cleaning : Manipulation de données avec Python.
