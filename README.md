@@ -29,3 +29,10 @@ Exploratory data analysis project based on hotel booking datasets.
 
 ### Market Segments
 ![Market Segments](visualizations/market_segments.png)
+
+## Business Intelligence & Reporting
+Beyond Python analysis, this project includes a professional dashboard designed for hotel management:
+
+- **Excel Dashboard:** Strategic KPIs including ADR, Cancellation Rates, and Market Segmentation.
+- **Key Metrics:** - Monitoring of high-volume segments (Online TA).
+  - Comparative analysis: Alfred Hotel Les Halles vs. Market Partners.
